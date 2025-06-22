@@ -1,0 +1,4 @@
+appium-python-client
+behave
+python-dotenv
+requests
